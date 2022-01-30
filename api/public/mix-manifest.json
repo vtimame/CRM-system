@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/board-page.js": "/board-page.js",
+    "/control-boards-page.js": "/control-boards-page.js",
+    "/control-employees-page.js": "/control-employees-page.js",
+    "/dashboard-page.js": "/dashboard-page.js",
+    "/login-page.js": "/login-page.js",
+    "/not-found-page.js": "/not-found-page.js",
+    "/vendors~board-page.js": "/vendors~board-page.js"
+}

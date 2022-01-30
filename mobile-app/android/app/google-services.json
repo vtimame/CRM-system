@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222749112128",
+    "firebase_url": "https://oycrm-78955.firebaseio.com",
+    "project_id": "oycrm-78955",
+    "storage_bucket": "oycrm-78955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222749112128:android:4eec76b57ef5536d7c6ca5",
+        "android_client_info": {
+          "package_name": "su.oyster.oycrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222749112128-r2j8uq53f26mdlbap9aa7bfmaspb91ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSxWx_vk-r1eqwOc78flkQfmOufXMKAo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222749112128-r2j8uq53f26mdlbap9aa7bfmaspb91ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

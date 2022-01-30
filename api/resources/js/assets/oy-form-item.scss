@@ -1,0 +1,23 @@
+.ant-form-item-with-help {
+    padding-bottom: 0 !important;
+}
+
+.oy-form-item {
+    margin-bottom: 0;
+    padding-bottom: 13px !important;
+
+    .ant-form-item-label {
+        padding: 0;
+        label {
+            font-size: 13px;
+        }
+    }
+
+    .ant-input-sm {
+        font-size: 13px;
+    }
+
+    .ant-form-explain {
+        font-size: 13px;
+    }
+}

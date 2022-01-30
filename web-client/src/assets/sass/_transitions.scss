@@ -1,0 +1,80 @@
+.fade-enter-active, .fade-leave-active {
+  transition: .2s;
+}
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
+
+.fade-right-enter-active, .fade-right-leave-active {
+  transition: .2s;
+}
+.fade-right-enter, .fade-right-leave-to {
+  opacity: 0;
+  transform: translateX(-1%);
+}
+
+.user-menu-enter-active, .user-menu-leave-active {
+  transition: .2s;
+}
+.user-menu-enter, .user-menu-leave-to {
+  opacity: 0;
+  transform: translateX(-3%);
+}
+
+.auth-input-right-transition-enter-active, .auth-input-right-transition-leave-active {
+  transition: .2s;
+}
+.auth-input-right-transition-enter {
+  opacity: 0;
+  transform: translateX(3%);
+}
+
+.auth-input-right-transition-leave-to {
+  opacity: 0;
+  transform: translateX(-3%);
+}
+
+.auth-input-left-transition-enter-active, .auth-input-left-transition-leave-active {
+  transition: .2s;
+}
+.auth-input-left-transition-enter {
+  opacity: 0;
+  transform: translateX(-3%);
+}
+
+.auth-input-left-transition-leave-to {
+  opacity: 0;
+  transform: translateX(3%);
+}
+
+.dropdown-menu-enter-active, .dropdown-menu-leave-active {
+  transition: .2s;
+}
+.dropdown-menu-enter, .dropdown-menu-leave-to {
+  opacity: 0;
+  transform: translateX(-3%);
+}
+
+.mentions-list-enter-active, .mentions-list-leave-active {
+  transition: .2s;
+}
+.mentions-list-enter, .mentions-list-leave-to {
+  opacity: 0;
+  transform: translateY(3%);
+}
+
+.typing-enter-active, .typing-leave-active {
+  transition: .2s;
+}
+.typing-enter, .typing-leave-to {
+  opacity: 0;
+  transform: translateY(3%);
+}
+
+.input-error-enter-active, .input-error-leave-active {
+  transition: .2s;
+}
+.input-error-enter, .input-error-leave-to {
+  opacity: 0;
+  transform: translateY(-10%);
+}
